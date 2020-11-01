@@ -4,7 +4,7 @@ This tool allows you to track your flights in Microsoft Flight Simulator.
 
 ## Installation 
 
-- Download the latest version of FSBlackBox from *releases* sections.
+- Download the latest version of FSBlackBox from [Releases](https://github.com/toorop/FsBlackBox/releases) sections.
 - And... that's all.
 
 **WARNING**: Windows Defender can detect fsblackbox.exe as virus. In order to use it anyway, whitelist blackbox.exe.  
