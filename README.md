@@ -1,6 +1,9 @@
 # FSBlackBox
 
-This tool allows you to track your flights in Microsoft Flight Simulator.
+# IMPORTANT this page is obsolete, please check https://flightsim.cloud for current version and documentation. Use this repo only to submit bug reports or feature request.
+
+
+This tool allows you to track your flights on an online, multi users, map.
 
 ## Installation 
 
